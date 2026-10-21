@@ -1,6 +1,6 @@
-# Emprende Perú — V24
+# Emprende Perú — V25
 
-Juego educativo HTML / JavaScript para PC y móviles. Campañas S.A.C. y S.R.L. y capítulo especial «Pollo?».
+Juego educativo HTML / JavaScript para PC y móviles. Campañas S.A. y S.R.L. y capítulo especial «Pollo?».
 
 ## Publicación en GitHub Pages
 
@@ -36,6 +36,14 @@ Para independizarte de ese servicio y asegurar la música en GitHub Pages:
 - Vuelve a subir ambos archivos a GitHub.
 
 La música empieza únicamente cuando pulsas «Jugar» o «Continuar partida» (o al confirmar una nueva partida). No suena en el menú principal, Ajustes ni Créditos del inicio, y se pausa al regresar al menú. Los navegadores permiten reproducir audio después de esa interacción. Se controla con el volumen de Ajustes, y se pausa durante el evento del Pollo, que conserva su música especial. Asegúrate de tener permiso para compartir públicamente la pista.
+
+## Cambios V25
+
+- Campaña de kekes: Sociedad Anónima (S.A.) en lugar de Sociedad Anónima Cerrada (S.A.C.).
+- Campaña de abarrotes: Sociedad Comercial de Responsabilidad Limitada (S.R.L.), sin cambios.
+- Se actualizaron nombres, diálogos, menús, créditos y la aclaración educativa sobre el directorio.
+- Las partidas existentes de la campaña S.A.C. se reconocen automáticamente como S.A. sin borrar el progreso.
+- No se modificaron las imágenes, música, mecánicas, eventos ni otras funciones.
 
 ## Cambios V24
 
